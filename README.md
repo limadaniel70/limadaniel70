@@ -1,4 +1,4 @@
-<h1> Olá, bem vindo ao meu perfil! :wave: </h1>
+<h1 align="center"> Olá, bem vindo ao meu perfil! :wave: </h1>
 
 <!-- 
 <h3>Sobre mim</h3>
