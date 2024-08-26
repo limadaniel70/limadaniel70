@@ -23,7 +23,7 @@
   <li>Algoritmos e estrutura de dados.</li>
   <li>Matemática discreta.</li>
 </ul>
-
+<hr />
 <h3> :bar_chart: Estatísticas</h3>
 <p>
   <img src=https://github-readme-stats.vercel.app/api?username=limadaniel70&theme=nord&show_icons=true&hide_border=true&count_private=true />
@@ -34,7 +34,7 @@
 <p>
   <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=limadaniel70&theme=nord&show_icons=true&hide_border=true&layout=pie />
 </p>
-
+<hr />
 <h3> :globe_with_meridians: Open Source </h3>
 <p>
 Estou sempre em busca de oportunidades para colaborar em projetos open source. Se você tem algum projeto interessante ou gostaria de colaborar comigo, sinta-se à vontade para me contatar!
