@@ -13,15 +13,15 @@
 
 <h3> :wrench: Habilidades técninas</h3>
 <ul>
-  <li><strong>Linguagens:</strong> Python </li>
-  <li><strong>Ferramentas:</strong> Git, Python, Visual Studio Code. </li>
-  <li><strong>Conhecimentos:</strong> POO </li>
+  <li><strong>Linguagens:</strong> <br/> Python </li>
+  <li><strong>Ferramentas:</strong> <br/> Git, Poetry, Visual Studio Code. </li>
+  <li><strong>Conhecimentos:</strong> <br/> POO, Linux </li>
 </ul>
 
 <h3> :books: O que estou estudando</h3>
 <ul>
   <li>Algoritmos e estrutura de dados.</li>
-  <li>Matemática discreta.</li>
+  <li>Tópicos em redes de computadores.</li>
 </ul>
 <hr />
 <h3> :bar_chart: Estatísticas</h3>
